@@ -63,3 +63,11 @@ const sum4 = function (a, b) {
 }
 
 cat.miauler3();
+
+
+
+const users = [
+    {nom : '', email: ''},
+    {},
+
+];
